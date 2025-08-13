@@ -1,2 +1,2 @@
-# Krok1
-Uczenie modelu na danych gieldowych spot
+Pomysl:aplikacja w kivy pozwalajaca uczyc modele i douczac je na wczesniej przygotowanych plikach csv. zawierajacych dane swiecowe z interwalem 1s ,dane wskaznikow TA z swiec 1s moga byc w interwale sekundowym lub po agregacji w innym,analiza wolumenu 
+
